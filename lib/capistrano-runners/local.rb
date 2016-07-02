@@ -1,0 +1,1 @@
+load File.expand_path("../../tasks/local.rake", __FILE__)
