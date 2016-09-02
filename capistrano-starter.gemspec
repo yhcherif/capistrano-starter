@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Capistrano starter kit.}
   spec.description   = %q{Let lazify do all the deploying stuff for you. Once you've finished you dev, it take a coffee break to deploy you laravel,Vanilla php or ruby. It can add a local dns tht point on the remote server, create a mysql database for you, set environment variables and even generate a nginx configuration for you app. The funny thing, it can setup you your server given a language. Install all required packages.}
-  spec.homepage      = "http://youssoufcherif.me"
+  spec.homepage      = "https://github.com/youssoufCherif/capistrano-starter.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
